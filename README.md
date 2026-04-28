@@ -1,7 +1,11 @@
 # Clustering-Countries-for-Strategic-Aid-Allocation_DS
 
-📌 Project Overview
-HELP International aims to maximize the impact of its $10 million aid fund by strategically allocating resources to countries most in need. This project leverages data science techniques to categorize countries based on socio-economic and health indicators, enabling targeted interventions and evidence-based decision-making.
+📌 Problem Statement
+
+HELP International is an international humanitarian NGO that is committed to fighting poverty and providing the people of backward countries with basic amenities and relief during the time of disasters and natural calamities.
+
+HELP International have been able to raise around $ 10 million. Now the CEO of the NGO needs to decide how to use this money strategically and effectively. So, CEO has to make decision to choose the countries that are in the direst need of aid. Hence, your Job as a Data scientist is to categorise the countries using some socio-economic and health factors that determine the overall development of the country. Then you need to suggest the countries which the CEO needs to focus on the most.
+
 
 🎯 Objectives
 Strategic Resource Allocation: Direct funds to countries facing the most severe challenges.
